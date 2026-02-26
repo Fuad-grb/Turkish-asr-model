@@ -1,0 +1,8 @@
+venv/
+models/wav2vec2-tr-final/
+models/onnx/
+__pycache__/
+*.pyc
+test_audio.wav
+.git/
+Turkish_asr_training.ipynb
