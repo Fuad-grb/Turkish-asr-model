@@ -79,11 +79,4 @@ Turkish_asr_training.ipynb  - Colab training notebook
 Dockerfile + docker-compose.yml
 ```
 
-## Daha çox vaxt olsaydı nə edərdim
 
-- Tam dataset üzərində training (daha aşağı WER)
-- Static quantization (calibration dataset lazımdır)
-- Multi-stage Docker build (daha kiçik image)
-- GitHub Actions ilə CI/CD
-- Daha yaxşı logging və error handling
-- Audio preprocessing (səs-küy azaltma, VAD)
