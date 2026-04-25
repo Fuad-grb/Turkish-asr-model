@@ -2,8 +2,6 @@
 
 Türk dili üçün Speech-to-Text sistemi. wav2vec2-large-xlsr-53 modeli Khan Academy Turkish dataseti üzərində fine-tune olunub, ONNX ilə optimallaşdırılıb və FastAPI + Docker ilə deploy olunub.
 
-**Seçim B (Engineering Centric)** yanaşması — modelin WER-i ideal deyil (~34%), amma bütün sistem konteynerləşdirilib, optimallaşdırılıb və deploy-a hazırdır. Training asanlıqla daha çox data/epoch ilə yenidən başladıla bilər.
-
 ## Necə işə salmaq
 
 **Docker:**
